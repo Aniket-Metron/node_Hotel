@@ -3,7 +3,8 @@ const mongoose = require('mongoose');
 
 // define the mongodb connecction URL
 
-const mongoURl= 'mongodb://localhost:27017/hotels'
+//const mongoURl= 'mongodb://localhost:27017/hotels'
+const mongoURl='mongodb+srv://aniketjain:Aniket123@hotels.uicduiv.mongodb.net/'
 
 //  to connect to db ---have to pass this parameter as it is
 
